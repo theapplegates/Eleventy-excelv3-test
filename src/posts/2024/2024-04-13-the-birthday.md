@@ -1,6 +1,7 @@
 ---
 title: "My birthday and 55"
 description: "Today I am 55. Young by some standards. Some say old, since I love naps"
+date: 2024-04-13
 ---
 
 Today I am 55. I'm looking forward to a nap already.
