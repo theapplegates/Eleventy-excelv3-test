@@ -20,7 +20,7 @@ If you end up using this starter, feel free to send me a link, I'd love to see i
 
 ## Preview
 
-https://eleventy-excellent.netlify.app/
+https://paulapplegate.com/
 
 ## Features
 
@@ -28,14 +28,14 @@ https://eleventy-excellent.netlify.app/
 
 - The whole CSS workflow as suggested by buildexcellentwebsit.es
 - Accessible site navigation, editable in `src/_data/navigation.js`
-- Image optimization with Eleventy-img _([see blog post](https://eleventy-excellent.netlify.app/blog/post-with-an-image/))_
-- Youtube embed with lite-youtube _([see blog post](https://eleventy-excellent.netlify.app/blog/post-with-a-video/))_
-- Easy resource fetching with eleventy-fetch _([see blog post](https://eleventy-excellent.netlify.app/blog/post-with-fetched-content/))_
-- Syntax highlighting via eleventy-plugin-syntaxhighlight _([see blog post](https://eleventy-excellent.netlify.app/blog/post-with-some-code/))_
-- Advanced markdown handling _([see blog post](https://eleventy-excellent.netlify.app/blog/post-with-all-the-markdown/))_
-- 301 redirects for Netlify _([see blog post](https://eleventy-excellent.netlify.app/blog/post-with-301-redirects/))_
-- Automatically generated Open Graph images for blog posts _([see blog post](https://eleventy-excellent.netlify.app/blog/open-graph-images/))_
-- Tailwind CSS - but not how you might expect _([see blog post](https://eleventy-excellent.netlify.app/blog/what-is-tailwind-css-doing-here/))_
+- Image optimization with Eleventy-img _([see blog post](https://paulapplegate.com/blog/post-with-an-image/))_
+- Youtube embed with lite-youtube _([see blog post](https://paulapplegate.com/blog/post-with-a-video/))_
+- Easy resource fetching with eleventy-fetch _([see blog post](https://paulapplegate.com/blog/post-with-fetched-content/))_
+- Syntax highlighting via eleventy-plugin-syntaxhighlight _([see blog post](https://paulapplegate.com/blog/post-with-some-code/))_
+- Advanced markdown handling _([see blog post](https://paulapplegate.com/blog/post-with-all-the-markdown/))_
+- 301 redirects for Netlify _([see blog post](https://paulapplegate.com/blog/post-with-301-redirects/))_
+- Automatically generated Open Graph images for blog posts _([see blog post](https://paulapplegate.com/blog/open-graph-images/))_
+- Tailwind CSS - but not how you might expect _([see blog post](https://paulapplegate.com/blog/what-is-tailwind-css-doing-here/))_
 - XML-sitemap
 - dayjs handling dates & times
 - Bundling via esbuild
@@ -50,7 +50,7 @@ https://eleventy-excellent.netlify.app/
 
 ## First steps
 
-[Read the Get started docs!](https://eleventy-excellent.netlify.app/get-started/)
+[Read the Get started docs!](https://paulapplegate.com/get-started/)
 
 ## Development
 
@@ -78,7 +78,7 @@ npm run build
 
 ## Built with Eleventy Excellent
 
-[Sites that are based on / built with Eleventy Excellent. ](https://eleventy-excellent.netlify.app/built-with/)
+[Sites that are based on / built with Eleventy Excellent. ](https://paulapplegate.com/built-with/)
 Add your site by submitting a pull request! :)
 
 ## Credits and Thank yous
