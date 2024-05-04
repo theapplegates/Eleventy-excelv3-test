@@ -1,10 +1,10 @@
 article
-  [href^='http']:not([href*='localhost:8080']):not([href*='eleventy-excellent.netlify.app']):not(.button) {
+  [href^='http']:not([href*='localhost:8080']):not([href*='paulapplegate.com']):not(.button) {
   padding-inline-end: 0.8em;
 }
 
 article
-  [href^='http']:not([href*='localhost:8080']):not([href*='eleventy-excellent.netlify.app']):not(
+  [href^='http']:not([href*='localhost:8080']):not([href*='paulapplegate.com']):not(
     .no-indicator
   )::after {
   position: absolute;
